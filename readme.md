@@ -1,0 +1,1 @@
+This repo contains two ipynb files one related to data cleaning and another contains codes related to eda and ml modeling.
